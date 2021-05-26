@@ -209,7 +209,7 @@
 ;; Obsolete functions
 
 (define-obsolete-function-alias 'benchmark-init/show-durations
-  'benchmark-init/show-durations-tabulated)
+  'benchmark-init/show-durations-tabulated "")
 
 (provide 'benchmark-init-modes)
 ;;; benchmark-init-modes.el ends here
